@@ -1,8 +1,7 @@
-# LLM-Independence-Experiment
 # LLM Independence Experiment – Groq Llama 3.1 vs OpenRouter Gemma 4
 
 > *Different roles give some independence, but not real independence.*  
-> — Marcos Somma
+> — Marco Somma
 
 We ran 50 jailbreak/prompt injection tests on two popular LLMs to measure how **correlated** their failure modes are. The question: if you use two models as independent validators, do they actually fail differently?
 
