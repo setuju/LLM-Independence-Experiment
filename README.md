@@ -112,6 +112,7 @@ Results will be saved to `results/adversarial-phase-1/experiment_full_results.js
 ---
 
 ## 📁 Repository Structure
+```text
 .
 ├── run_adversarial_experiment.py   # Main script (baseline + adversarial)
 ├── test_50_prompts.py              # Legacy baseline-only script
@@ -120,7 +121,7 @@ Results will be saved to `results/adversarial-phase-1/experiment_full_results.js
 │   └── adversarial-phase-1/
 │       └── experiment_full_results.json   # Full adversarial results
 └── README.md
-
+```
 ---
 
 ## 🤝 Why This Matters
